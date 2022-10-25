@@ -1,3 +1,4 @@
 Wait/*.pdf
 Wait
+!Paper_List
 .gitignore
