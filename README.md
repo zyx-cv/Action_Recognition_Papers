@@ -19,7 +19,7 @@
 
 |       日期      |                                论文名称                              |        阅读计划      |       阅读方式        |
 | --------------- | -------------------------------------------------------------------- | -------------------- | -------------------- |
-| wait for adding |                            wait for adding                           |   []wait for adding  |   []wait for adding  |
+| 202012 | [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/pdf/2012.06567.pdf) | 已读| 论文+B站沐神视频 |
 
 
 ## 相关工作 - Relate Works
