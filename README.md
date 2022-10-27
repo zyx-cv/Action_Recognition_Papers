@@ -15,6 +15,7 @@
 | 202012 | [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/pdf/2012.06567.pdf) | 已读 | 论文+B站沐神视频 |
 | 201403 | 【DeepVideo】[Large-scale Video Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909619) | 已读 | 泛读 |
 | 201406 | 【Two Stream CNN】[two stream convolutional networks for action recognition in videos](https://arxiv.org/pdf/1406.2199v2.pdf) | 已读 | 精读 |
+| 201412 | 【C3D】[Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/pdf/1412.0767v4.pdf) | 待读 | 精读 |
 
 
 ## 领域综述 - Survey
@@ -42,7 +43,7 @@
 
 |       日期      |                                论文名称                              |        阅读计划      |       阅读方式        |
 | --------------- | -------------------------------------------------------------------- | -------------------- | -------------------- |
-| wait for adding |                            wait for adding                           | wait for adding | wait for adding |
+| 201412 | 【C3D】[Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/pdf/1412.0767v4.pdf) | 待读 | 精读 |
 
 
 ## 半监督 - Semi-Supervised
