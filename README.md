@@ -13,8 +13,8 @@
 |       日期      |                                论文名称                              |        阅读计划      |       阅读方式        |
 | --------------- | -------------------------------------------------------------------- | -------------------- | -------------------- |
 | 202012 | [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/pdf/2012.06567.pdf) | 已读 | 论文+B站沐神视频 |
-| 201403 | 【DeepVideo】[Large-scale Video Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909619) | 待读 | 泛读 |
-| 201406 | 【Two Stream CNN】[two stream convolutional networks for action recognition in videos](https://arxiv.org/pdf/1406.2199v2.pdf) | 待读 | 精读 |
+| 201403 | 【DeepVideo】[Large-scale Video Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909619) | 已读 | 泛读 |
+| 201406 | 【Two Stream CNN】[two stream convolutional networks for action recognition in videos](https://arxiv.org/pdf/1406.2199v2.pdf) | 已读 | 精读 |
 
 
 ## 领域综述 - Survey
@@ -28,18 +28,25 @@
 
 |       日期      |                                论文名称                              |        阅读计划      |       阅读方式        |
 | --------------- | -------------------------------------------------------------------- | -------------------- | -------------------- |
-| 201403 | 【DeepVideo】[Large-scale Video Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909619) | 待读 | 泛读 |
+| 201403 | 【DeepVideo】[Large-scale Video Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909619) | 已读 | 泛读 |
 
 
 ## 双流方法 - Two-streams
 
 |       日期      |                                论文名称                              |        阅读计划      |       阅读方式        |
 | --------------- | -------------------------------------------------------------------- | -------------------- | -------------------- |
-| 201406 | 【Two Stream CNN】[two stream convolutional networks for action recognition in videos](https://arxiv.org/pdf/1406.2199v2.pdf) | 待读 | 精读 |
+| 201406 | 【Two Stream CNN】[two stream convolutional networks for action recognition in videos](https://arxiv.org/pdf/1406.2199v2.pdf) | 已读 | 精读 |
 
 
 ## 3D卷积 - 3D Conv
 
 |       日期      |                                论文名称                              |        阅读计划      |       阅读方式        |
 | --------------- | -------------------------------------------------------------------- | -------------------- | -------------------- |
-| wait for adding |                            wait for adding                           |   []wait for adding  |   []wait for adding  |
+| wait for adding |                            wait for adding                           | wait for adding | wait for adding |
+
+
+## 半监督 - Semi-Supervised
+
+|       日期      |                                论文名称                              |        阅读计划      |       阅读方式        |
+| --------------- | -------------------------------------------------------------------- | -------------------- | -------------------- |
+| wait for adding |                            wait for adding                           | wait for adding | wait for adding |
