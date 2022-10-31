@@ -17,6 +17,7 @@
 | 201406 | 【Two Stream CNN】[two stream convolutional networks for action recognition in videos](https://arxiv.org/pdf/1406.2199v2.pdf) | 已读 |
 | 201412 | 【C3D】[Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/pdf/1412.0767v4.pdf) | 已读 |
 | 201608 | 【TSN】[Temporal Segment Networks Towards Good Practices for Deep Action Recognition](https://arxiv.org/pdf/1608.00859.pdf) | 已读 |
+| 201703 | [UntrimmedNets for Weakly Supervised Action Recognition and Detection](https://arxiv.org/pdf/1703.03329v2.pdf) | 待读 |
 | 201705 | 【I3D】[Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/pdf/1705.07750v3.pdf) | 待读 |
 
 
@@ -50,8 +51,8 @@
 | 201705 | 【I3D】[Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/pdf/1705.07750v3.pdf) | 待读 |
 
 
-## 半监督 - Semi-Supervised
+## 半监督/弱监督 - Semi-Supervised/Weakly Supervised
 
 |       日期      |                                论文名称                              |        阅读计划      |
 | --------------- | -------------------------------------------------------------------- | -------------------- |
-| wait for adding |                            wait for adding                           | wait for adding | wait for adding |
+| 201703 | [UntrimmedNets for Weakly Supervised Action Recognition and Detection](https://arxiv.org/pdf/1703.03329v2.pdf) | 待读 |
