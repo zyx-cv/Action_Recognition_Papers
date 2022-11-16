@@ -21,7 +21,7 @@
 | 201705 | 【I3D】[Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/pdf/1705.07750v3.pdf) | 已读 |
 | 201711 | 【I3D Non-Local】[Non-local Neural Networks](https://arxiv.org/pdf/1711.07971v3.pdf) | 已读 |
 | 201711 | 【R(2+1)D】[A closer look at spatiotemporal convolutions for action recognition](https://arxiv.org/pdf/1711.11248v3.pdf) | 已读 |
-| 201711 | 【TRN】[Temporal Relational Reasoning in Videos](https://arxiv.org/pdf/1711.08496v2.pdf) | 待读 |
+| 201711 | 【TRN】[Temporal Relational Reasoning in Videos](https://arxiv.org/pdf/1711.08496v2.pdf) | 在读 |
 | 201801 | [DiscrimNet_Semi-Supervised Action Recognition from Videos using Generative Adversarial Networks](https://arxiv.org/pdf/1801.07230v1.pdf) | 已读 |
 | 201804 | 【ECO】[ECO:Efficient Convolutional Network for Online Video Understanding](https://arxiv.org/pdf/1804.09066v2.pdf) | 待读 |
 | 201804 | 【TSM】[TSM:Temporal Shift Module for Efficient Video Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9008827) | 待读 |
@@ -34,6 +34,7 @@
 | 202004 | 【X3D】[X3D:Expanding Architectures for Efficient Video Recognition](https://arxiv.org/pdf/2004.04730v1.pdf) | 待读 |
 | 202005 | 【TANet】[TAM:Temporal Adaptive Module for Video Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9710203) | 待读 |
 | 202102 | 【TimeSformer】[Is Space-Time Attention All You Need for Video Understanding](https://arxiv.org/pdf/2102.05095v4.pdf) | 待读 |
+| 202102 | [Semi-Supervised Action Recognition with Temporal Contrastive Learning](https://arxiv.org/pdf/2102.02751v2.pdf) | 在读 |
 
 
 ## 领域综述 - Survey
@@ -75,3 +76,4 @@
 | 201703 | [UntrimmedNets for Weakly Supervised Action Recognition and Detection](https://arxiv.org/pdf/1703.03329v2.pdf) | 已读 |
 | 201801 | [DiscrimNet_Semi-Supervised Action Recognition from Videos using Generative Adversarial Networks](https://arxiv.org/pdf/1801.07230v1.pdf) | 已读 |
 | 201906 | [Large-scale weakly-supervised pre-training for video action recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953267) | 已读 |
+| 202102 | [Semi-Supervised Action Recognition with Temporal Contrastive Learning](https://arxiv.org/pdf/2102.02751v2.pdf) | 在读 |
