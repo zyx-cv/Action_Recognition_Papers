@@ -24,7 +24,7 @@
 | 201711 | 【TRN】[Temporal Relational Reasoning in Videos](https://arxiv.org/pdf/1711.08496v2.pdf) | 已读 |
 | 201801 | [DiscrimNet_Semi-Supervised Action Recognition from Videos using Generative Adversarial Networks](https://arxiv.org/pdf/1801.07230v1.pdf) | 已读 |
 | 201804 | 【ECO】[ECO:Efficient Convolutional Network for Online Video Understanding](https://arxiv.org/pdf/1804.09066v2.pdf) | 已读 |
-| 201804 | 【TSM】[TSM:Temporal Shift Module for Efficient Video Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9008827) | 待读 |
+| 201804 | 【TSM】[TSM:Temporal Shift Module for Efficient Video Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9008827) | 已读 |
 | 201804 | 【SlowFast】[SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982v3.pdf) | 已读 |
 | 201904 | 【CSN】[Video Classification with Channel-Separated Convolutional Networks](https://arxiv.org/pdf/1904.02811v4.pdf) | 待读 |
 | 201906 | [Large-scale weakly-supervised pre-training for video action recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953267) | 已读 |
