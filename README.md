@@ -78,9 +78,9 @@
 |       日期      |                                论文名称                              |        阅读计划      |
 | --------------- | -------------------------------------------------------------------- | -------------------- |
 | 201703 | [UntrimmedNets for Weakly Supervised Action Recognition and Detection](https://arxiv.org/pdf/1703.03329v2.pdf) | 已读 |
-| 201801 | [DiscrimNet_Semi-Supervised Action Recognition from Videos using Generative Adversarial Networks](https://arxiv.org/pdf/1801.07230v1.pdf) | 已读 |
-| 201906 | [Large-scale weakly-supervised pre-training for video action recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953267) | 已读 |
-| 202102 | [Semi-Supervised Action Recognition with Temporal Contrastive Learning](https://arxiv.org/pdf/2102.02751v2.pdf) | 已读 |
-| 202111 | [Learning from Temporal Gradient for Semi-supervised Action Recognition](https://arxiv.org/pdf/2111.13241v1.pdf) | 待读 |
-| 202112 | [Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Cross-Model_Pseudo-Labeling_for_Semi-Supervised_Action_Recognition_CVPR_2022_paper.pdf) | 待读 |
-| 202209 | [Weakly Supervised Two-Stage Training Scheme for Deep Video Fight Detection Model](https://arxiv.org/pdf/2209.11477.pdf) | 待读 |
+| 201801 | 【GAN】[DiscrimNet_Semi-Supervised Action Recognition from Videos using Generative Adversarial Networks](https://arxiv.org/pdf/1801.07230v1.pdf) | 已读 |
+| 201906 | 【预训练】[Large-scale weakly-supervised pre-training for video action recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953267) | 已读 |
+| 202102 | 【伪标签、对比学习】[Semi-Supervised Action Recognition with Temporal Contrastive Learning](https://arxiv.org/pdf/2102.02751v2.pdf) | 已读 |
+| 202111 | 【伪标签、对比学习】[Learning from Temporal Gradient for Semi-supervised Action Recognition](https://arxiv.org/pdf/2111.13241v1.pdf) | 泛读 |
+| 202112 | 【伪标签】[Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Cross-Model_Pseudo-Labeling_for_Semi-Supervised_Action_Recognition_CVPR_2022_paper.pdf) | 泛读 |
+| 202209 | 【伪标签】[Weakly Supervised Two-Stage Training Scheme for Deep Video Fight Detection Model](https://arxiv.org/pdf/2209.11477.pdf) | 泛读 |
